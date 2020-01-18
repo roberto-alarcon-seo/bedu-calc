@@ -1,0 +1,33 @@
+.calc_container{
+    margin-top: 100px;
+    background-color: gray;
+    height: 300px;
+}
+
+.calc_container h1{
+    color: white;
+    font-size: 2.1em;
+    padding: 20px;
+}
+
+.calc_container input{
+    width: 50%;
+    padding: 10px;
+    margin: 5px;;
+}
+
+.calc_container button{
+    width: 50%;
+    padding: 10px;
+    margin: 5px;;
+}
+
+.calc_result{
+    width: 100%;
+    background-color: white;
+    color:#000;
+    height: 50px;
+    margin-top: 20px;
+    padding: 10px;
+    font-weight: bold;
+}
